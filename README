@@ -1,0 +1,38 @@
+########################   README   ###############################
+
+THIS FILE INCLUDES INSTRUCTIONS FOR EXECUTING THE GIVEN C FILES
+
+###################################################################
+
+----------------------     PART A    ------------------------------
+
+write the following commands in the terminal -
+
+->gcc partA.c -o partA
+->./partA
+
+This will up the the shell made in first part
+
+###################################################################
+
+----------------------     PART B    ------------------------------
+
+write the following commands in the terminal -
+
+->gcc partB.c -o partB
+->./partB
+
+This will up the the shell made in second part
+
+###################################################################
+
+----------------------     PART C    ------------------------------
+
+write the following commands in the terminal -
+
+->gcc partC.c -o partC
+->./partC
+
+This will up the the shell made in third part
+
+###################################################################
